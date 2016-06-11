@@ -1,0 +1,24 @@
+{
+  "name": "gulp-normalize-pkg",
+  "private": true,
+  "description": "Gulp plugin for normalize-pkg.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/gulp-normalize-pkg",
+  "repository": "jonschlinkert/gulp-normalize-pkg",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/gulp-normalize-pkg/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [
+    "gulp",
+    "normalize",
+    "pkg"
+  ]
+}

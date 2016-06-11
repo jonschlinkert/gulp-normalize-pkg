@@ -1,0 +1,10 @@
+{
+  "name": "gulp-normalize-pkg",
+  "description": "Gulp plugin for normalize-pkg.",
+  "private": true,
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}

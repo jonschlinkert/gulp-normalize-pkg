@@ -19,18 +19,27 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+    "extend-shallow": "^2.0.1",
+    "normalize-pkg": "^0.3.12",
+    "through2": "^2.0.1"
+  },
   "devDependencies": {
     "gulp-format-md": "*",
-    "mocha": "*"
+    "mocha": "*",
+    "vinyl": "^1.1.1"
   },
   "keywords": [],
   "verb": {
     "layout": "default",
-    "plugins": ["gulp-format-md"],
+    "plugins": [
+      "gulp-format-md"
+    ],
     "related": {
       "list": []
     },
-    "reflinks": ["verb"]
+    "reflinks": [
+      "verb"
+    ]
   }
 }
