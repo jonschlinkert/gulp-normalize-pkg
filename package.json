@@ -1,7 +1,7 @@
 {
   "name": "gulp-normalize-pkg",
   "description": "Gulp plugin for normalize-pkg.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/jonschlinkert/gulp-normalize-pkg",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/gulp-normalize-pkg",
